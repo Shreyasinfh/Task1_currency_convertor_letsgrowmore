@@ -3,7 +3,7 @@ import java.awt.event.*;
 import javax.swing.*;
 
 public class CurrencyConvertor extends Frame implements ItemListener, ActionListener{  
-    //Currency Convertor By Mohit Ramesh Kulkarni.
+    //Currency Convertor By Shreya Kumari
     JComboBox<String> convertFrom;
     JComboBox<String> convertTo;
     JTextField txtFrom, txtTo;
